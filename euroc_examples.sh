@@ -1,5 +1,5 @@
 #!/bin/bash
-pathDatasetEuroc='/Datasets/EuRoC' #Example, it is necesary to change it by the dataset path
+pathDatasetEuroc='/mnt/f/SLAM_DATASET/EuRoC' #Example, it is necesary to change it by the dataset path
 
 #------------------------------------
 # Monocular Examples
